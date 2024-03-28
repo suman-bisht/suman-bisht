@@ -45,7 +45,7 @@ A Cloud product marketing manager with a focus on security and networking soluti
 
 #### 🗂️ Solution Guides
 - [VMware SD-Access Solution Overview](https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/sase/sdwan-1085-VMware-SD-WAN-Client-so-11-22.pdf)
-- [VMware Secure Access End of Sale announced	Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1004-Secure-Access-ds-1021.pdf)
+- [VMware Secure Access ( A Zero Trust Network Access offering)](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1004-Secure-Access-ds-1021.pdf)
 - [Zscaler Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-919-Zscaler-so-0820.pdf)
 - [Zoom Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-889-sdwan-zoom-so-0121.pdf)
 - [Microsoft 365 Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-898-MS365-so-0620.pdf)
