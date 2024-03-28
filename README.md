@@ -71,8 +71,7 @@ I am
 - [8x8's marketplace / integrations page](https://www.8x8.com/products/integrations)
 
 
-====
-	
+
 
 ---
 <!--
