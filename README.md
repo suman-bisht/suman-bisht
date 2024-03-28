@@ -12,9 +12,9 @@ I am
 - Google Cloud Certified - Professional Data Engineer (2023)
 - Google Cloud Certified - Cloud Digital Leader (2022)
 - Google Cloud Certified - Professional Cloud Architect (2018)
-- Google Cloud - Introduction to Generative AI
+- Google Cloud - Introduction to Generative AI (2024)
 - AWS Certified - Solution Architect Associate (2017)
-- Microsoft Azure AI Fundamentals (2024),
+- Microsoft Azure AI Fundamentals (2024)
 - Microsoft Azure Fundamentals (2024)
 
 
@@ -48,7 +48,7 @@ I am
 
 #### 🗂️ Datasheets
 
-- [sdwan-1092-vmware-sd-wan-client-ds](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1092-vmware-sd-wan-client-ds-0323.pdf)
+- [VMware VeloCloud SD-Access](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1092-vmware-sd-wan-client-ds-0323.pdf)
 
 #### 🗂️ Solution Guides
 - [VMware SD-Access Solution Overview](https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/sase/sdwan-1085-VMware-SD-WAN-Client-so-11-22.pdf)
