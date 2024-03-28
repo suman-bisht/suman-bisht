@@ -5,7 +5,7 @@ Suman Bisht
 
 ---
 
-I am a ... 
+A Cloud product marketing manager with a focus on security and networking solutions.  
 
 ---
 
