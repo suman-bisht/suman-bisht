@@ -36,8 +36,8 @@ I am
 #### ✍ Blogs
 
 
-- [vmware-with-zscaler-delivering-best-of-breed-networking-and-security-to-your-anywhere-workforce](https://blogs.vmware.com/sase/2021/03/09/vmware-with-zscaler-delivering-best-of-breed-networking-and-security-to-your-anywhere-workforce/)
-- [vmware-sd-wan-with-equinix-optimized-and-closest-connectivity-to-multicloud](https://blogs.vmware.com/sase/2020/10/22/vmware-sd-wan-with-equinix-optimized-and-closest-connectivity-to-multicloud/)
+- [VMware with Zscaler: Delivering Best-of-Breed Networking and Security to Your Anywhere Workforce](https://blogs.vmware.com/sase/2021/03/09/vmware-with-zscaler-delivering-best-of-breed-networking-and-security-to-your-anywhere-workforce/)
+- [VMware SD-WAN with Equinix: Optimized and Closest Connectivity to Multicloud](https://blogs.vmware.com/sase/2020/10/22/vmware-sd-wan-with-equinix-optimized-and-closest-connectivity-to-multicloud/)
 - [new-cellular-options-for-staying-connected-with-vmware-sd-wan-and-transatel](https://blogs.vmware.com/sase/2021/03/11/new-cellular-options-for-staying-connected-with-vmware-sd-wan-and-transatel/)
 - [vmware-cloud-aws-integration-vmware-sd-wan-velocloud](https://blogs.vmware.com/cloud/2020/04/23/vmware-cloud-aws-integration-vmware-sd-wan-velocloud/)
 - [vmware-sd-wan-with-menlo-security-optimal-connectivity-and-security-for-workforce-home](https://blogs.vmware.com/sase/2020/05/27/vmware-sd-wan-with-menlo-security-optimal-connectivity-and-security-for-workforce-home/)
