@@ -1,7 +1,7 @@
 Suman Bisht
 
 
-### Hello I am Suman Bisht <img src="../suman-bisht/assets/images/wave.gif" width="24px">
+### Hello I am Suman <img src="../suman-bisht/assets/images/wave.gif" width="24px">
 
 ---
 
