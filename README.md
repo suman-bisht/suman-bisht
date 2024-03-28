@@ -20,7 +20,6 @@ I am
 - Microsoft Azure AI Fundamentals (2024)
 - Microsoft Azure Fundamentals (2024)
 
-Education: Bachelors of Engineering : Electronics and Communications
 ---
 
 ### Skills ⚙️
