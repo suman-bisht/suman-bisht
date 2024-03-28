@@ -5,15 +5,18 @@ Suman Bisht
 
 ---
 
-I am a cloud product marketing manager with a focus on security and networking solutions.  
+A cloud product marketing manager with a focus on security and networking solutions.  
 
-- Google Cloud Certified - Professional Data Engineer (2023);
-- Google Cloud Certified - Cloud Digital Leader (2022);
+I have working knowledge in Data Center & Enterprise Networking, Servers, Kubernetes/Containers, Storage, SD-WAN, SASE, CASB, SWG, ZTNA, Firewalls, UCaaS/CCaaS, API platforms, 2G/3G/LTE, GSM-R, VoIP, Cloud Computing.
+I am
+- Google Cloud Certified - Professional Data Engineer (2023)
+- Google Cloud Certified - Cloud Digital Leader (2022)
 - Google Cloud Certified - Professional Cloud Architect (2018)
 - Google Cloud - Introduction to Generative AI
 - AWS Certified - Solution Architect Associate (2017)
 - Microsoft Azure AI Fundamentals (2024),
 - Microsoft Azure Fundamentals (2024)
+
 
 ---
 
