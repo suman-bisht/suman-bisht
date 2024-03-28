@@ -42,6 +42,8 @@ A Cloud product marketing manager with a focus on security and networking soluti
 #### 🗂️ Datasheets
 
 - [sdwan-1092-vmware-sd-wan-client-ds](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1092-vmware-sd-wan-client-ds-0323.pdf)
+
+#### 🗂️ Solution Guides
 - [VMware SD-Access Solution Overview](https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/sase/sdwan-1085-VMware-SD-WAN-Client-so-11-22.pdf)
 - [VMware Secure Access End of Sale announced	Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1004-Secure-Access-ds-1021.pdf)
 - [Zscaler Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-919-Zscaler-so-0820.pdf)
@@ -52,7 +54,7 @@ A Cloud product marketing manager with a focus on security and networking soluti
 - [Netskope Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-908-netskope-so-0720.pdf)
 - [Menlo Security Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-807-menlo-security-1219.pdf)
 
-#### 📑 Sites
+#### 📑 Webpages
 
 - [VMWare SASE sdaccess](https://sase.vmware.com/products/sdaccess)
 - [VMWare SASE secure access](https://sase.vmware.com/products/vmware-secure-access)
