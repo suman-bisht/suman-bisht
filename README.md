@@ -3,6 +3,8 @@ Suman Bisht
 
 ### Hello I am Suman <img src="../suman-bisht/assets/images/wave.gif" width="24px">
 
+[![Linkedin](link-to-linkedin-logo) LinkedIn]([link-to-your-linkedin-profile](https://www.linkedin.com/in/sumanbisht/))
+
 ---
 
 A cloud product marketing manager with a focus on security and networking solutions.  
