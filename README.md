@@ -19,6 +19,8 @@ I am
 - AWS Certified - Solution Architect Associate (2017)
 - Microsoft Azure AI Fundamentals (2024)
 - Microsoft Azure Fundamentals (2024)
+  
+Education: Bachelors of Engineering in Electronics & Communications
 
 ---
 
