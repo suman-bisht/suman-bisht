@@ -29,15 +29,15 @@ A Cloud product marketing manager with a focus on security and networking soluti
 #### ✍ Blogs
 
 
-    - [vmware-with-zscaler-delivering-best-of-breed-networking-and-security-to-your-anywhere-workforce](https://blogs.vmware.com/sase/2021/03/09/vmware-with-zscaler-delivering-best-of-breed-networking-and-security-to-your-anywhere-workforce/)
-    - [vmware-sd-wan-with-equinix-optimized-and-closest-connectivity-to-multicloud](https://blogs.vmware.com/sase/2020/10/22/vmware-sd-wan-with-equinix-optimized-and-closest-connectivity-to-multicloud/)
-    - [new-cellular-options-for-staying-connected-with-vmware-sd-wan-and-transatel](https://blogs.vmware.com/sase/2021/03/11/new-cellular-options-for-staying-connected-with-vmware-sd-wan-and-transatel/)
-    - [vmware-cloud-aws-integration-vmware-sd-wan-velocloud](https://blogs.vmware.com/cloud/2020/04/23/vmware-cloud-aws-integration-vmware-sd-wan-velocloud/)
-    - [vmware-sd-wan-with-menlo-security-optimal-connectivity-and-security-for-workforce-home](https://blogs.vmware.com/sase/2020/05/27/vmware-sd-wan-with-menlo-security-optimal-connectivity-and-security-for-workforce-home/)
-    - [Thought leadership/ZTNA article on Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2021/06/16/reasons-to-consider-moving-from-a-vpn-to-ztna-in-a-work-from-anywhere-world/)
-    - [getting-the-best-performance-for-microsoft-365-with-vmware-sd-wan](https://blogs.vmware.com/sase/2020/07/14/getting-the-best-performance-for-microsoft-365-with-vmware-sd-wan/)
-    - [vmware-sd-wan-for-office-365-productivity-and-experience-together](https://blogs.vmware.com/sase/2020/02/19/vmware-sd-wan-for-office-365-productivity-and-experience-together/)
-    - [VMware Edge Compute Stack](https://blogs.vmware.com/sase/2022/08/30/vmware-edge-compute-stack-new-in-2022/)
+- [vmware-with-zscaler-delivering-best-of-breed-networking-and-security-to-your-anywhere-workforce](https://blogs.vmware.com/sase/2021/03/09/vmware-with-zscaler-delivering-best-of-breed-networking-and-security-to-your-anywhere-workforce/)
+- [vmware-sd-wan-with-equinix-optimized-and-closest-connectivity-to-multicloud](https://blogs.vmware.com/sase/2020/10/22/vmware-sd-wan-with-equinix-optimized-and-closest-connectivity-to-multicloud/)
+- [new-cellular-options-for-staying-connected-with-vmware-sd-wan-and-transatel](https://blogs.vmware.com/sase/2021/03/11/new-cellular-options-for-staying-connected-with-vmware-sd-wan-and-transatel/)
+- [vmware-cloud-aws-integration-vmware-sd-wan-velocloud](https://blogs.vmware.com/cloud/2020/04/23/vmware-cloud-aws-integration-vmware-sd-wan-velocloud/)
+- [vmware-sd-wan-with-menlo-security-optimal-connectivity-and-security-for-workforce-home](https://blogs.vmware.com/sase/2020/05/27/vmware-sd-wan-with-menlo-security-optimal-connectivity-and-security-for-workforce-home/)
+- [Thought leadership/ZTNA article on Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2021/06/16/reasons-to-consider-moving-from-a-vpn-to-ztna-in-a-work-from-anywhere-world/)
+- [getting-the-best-performance-for-microsoft-365-with-vmware-sd-wan](https://blogs.vmware.com/sase/2020/07/14/getting-the-best-performance-for-microsoft-365-with-vmware-sd-wan/)
+- [vmware-sd-wan-for-office-365-productivity-and-experience-together](https://blogs.vmware.com/sase/2020/02/19/vmware-sd-wan-for-office-365-productivity-and-experience-together/)
+- [VMware Edge Compute Stack](https://blogs.vmware.com/sase/2022/08/30/vmware-edge-compute-stack-new-in-2022/)
 
 #### 🗂️ Datasheets
 
