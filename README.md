@@ -7,6 +7,10 @@ Suman Bisht
 
 A Cloud product marketing manager with a focus on security and networking solutions.  
 
+• Google Cloud Certified - Professional Data Engineer (2023); Cloud Digital Leader (2022); Professional Cloud Architect (2018)
+• AWS Certified - Solution Architect Associate (2017)
+• Azure AI Fundamentals (2024), Azure Fundamentals (2024)
+
 ---
 
 ### Skills ⚙️
@@ -24,11 +28,10 @@ A Cloud product marketing manager with a focus on security and networking soluti
 
 #### ✍ Blogs
 
-- **Partnerships**
+
     - [vmware-with-zscaler-delivering-best-of-breed-networking-and-security-to-your-anywhere-workforce](https://blogs.vmware.com/sase/2021/03/09/vmware-with-zscaler-delivering-best-of-breed-networking-and-security-to-your-anywhere-workforce/)
     - [vmware-sd-wan-with-equinix-optimized-and-closest-connectivity-to-multicloud](https://blogs.vmware.com/sase/2020/10/22/vmware-sd-wan-with-equinix-optimized-and-closest-connectivity-to-multicloud/)
     - [new-cellular-options-for-staying-connected-with-vmware-sd-wan-and-transatel](https://blogs.vmware.com/sase/2021/03/11/new-cellular-options-for-staying-connected-with-vmware-sd-wan-and-transatel/)
-- **VMware Cloud** 
     - [vmware-cloud-aws-integration-vmware-sd-wan-velocloud](https://blogs.vmware.com/cloud/2020/04/23/vmware-cloud-aws-integration-vmware-sd-wan-velocloud/)
     - [vmware-sd-wan-with-menlo-security-optimal-connectivity-and-security-for-workforce-home](https://blogs.vmware.com/sase/2020/05/27/vmware-sd-wan-with-menlo-security-optimal-connectivity-and-security-for-workforce-home/)
     - [Thought leadership/ZTNA article on Forbes.com](https://www.forbes.com/sites/forbestechcouncil/2021/06/16/reasons-to-consider-moving-from-a-vpn-to-ztna-in-a-work-from-anywhere-world/)
