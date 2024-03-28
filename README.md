@@ -51,7 +51,9 @@ I am
 
 #### 🗂️ Datasheets
 
+- [VMware VeloCloud SD-WAN Edge](https://www.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-712-edge-platform-spec-ds-1020.pdf)
 - [VMware VeloCloud SD-Access](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1092-vmware-sd-wan-client-ds-0323.pdf)
+  
 
 #### 🗂️ Solution Guides
 - [VMware SD-Access](https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/sase/sdwan-1085-VMware-SD-WAN-Client-so-11-22.pdf)
