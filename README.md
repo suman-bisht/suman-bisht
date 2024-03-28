@@ -51,39 +51,28 @@ I am
 - [VMware VeloCloud SD-Access](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1092-vmware-sd-wan-client-ds-0323.pdf)
 
 #### 🗂️ Solution Guides
-- [VMware SD-Access Solution Overview](https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/sase/sdwan-1085-VMware-SD-WAN-Client-so-11-22.pdf)
-- [VMware Secure Access ( A Zero Trust Network Access offering)](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1004-Secure-Access-ds-1021.pdf)
-- [Zscaler Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-919-Zscaler-so-0820.pdf)
-- [Zoom Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-889-sdwan-zoom-so-0121.pdf)
-- [Microsoft 365 Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-898-MS365-so-0620.pdf)
-- [Equinix Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-905-Equinix-so-0620.pdf)
-- [Transatel Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-955-transatel-so-0221.pdf)
-- [Netskope Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-908-netskope-so-0720.pdf)
-- [Menlo Security Solution Overview](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-807-menlo-security-1219.pdf)
+- [VMware SD-Access](https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/sase/sdwan-1085-VMware-SD-WAN-Client-so-11-22.pdf)
+- [VMware Secure Access ](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1004-Secure-Access-ds-1021.pdf)
+- [Zscaler and VMware Integration](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-919-Zscaler-so-0820.pdf)
+- [Zoom and VMware Integration](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-889-sdwan-zoom-so-0121.pdf)
+- [Microsoft 365 and VMware Integration](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-898-MS365-so-0620.pdf)
+- [Equinix and VMware Integration](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-905-Equinix-so-0620.pdf)
+- [Transatel and VMware Integration](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-955-transatel-so-0221.pdf)
+- [Netskope and VMware Integration](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-908-netskope-so-0720.pdf)
+- [Menlo Security and Vmware Integration](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-807-menlo-security-1219.pdf)
 
 #### 📑 Webpages
 
-- [VMWare SASE sdaccess](https://sase.vmware.com/products/sdaccess)
-- [VMWare SASE secure access](https://sase.vmware.com/products/vmware-secure-access)
+- [VMWare SASE SD-Access](https://sase.vmware.com/products/sdaccess)
+- [VMWare SASE Secure Access](https://sase.vmware.com/products/vmware-secure-access)
 - [VMWare SASE Compliance and Certifications](https://sase.vmware.com/products/product-certifications-and-compliance)
-- [VMWare edge compute](https://www.vmware.com/products/edge-compute-stack.html)
+- [VMWare Edge Compute Stack](https://www.vmware.com/products/edge-compute-stack.html)
 - [VMware SD-WAN Edge Lifecycle](https://kb.vmware.com/s/article/79753)
 - [8x8's marketplace / integrations page](https://www.8x8.com/products/integrations)
 
 
 ====
-- (Remote access offering for users & applications/machines with  insights through AIOps.)		
-- (Zero Trust Network Access offering combining SD-WAN, Edge user computing/MDM)		
--(Purpose-built solution for Edge native applications. IT/OT convergence)		
--(Notice board reg SD-WAN Edge Lifecycle & Recommendation)		
--(2-vendor SASE)		
--(SaaS optimization)		
--(SaaS optimization)		
--(End-to-end performance and security)		
--High availability with failover to carrier)		
--(Performance of VMW Cloud on AWS)		
--(SD-WAN + SWG integration)		
--(SD-WAN + SWG integration)		
+	
 
 ---
 <!--
