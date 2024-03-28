@@ -3,7 +3,7 @@ Suman Bisht
 
 ### Hello I am Suman <img src="../suman-bisht/assets/images/wave.gif" width="24px">
 
-[![Linkedin](link-to-linkedin-logo) LinkedIn]([link-to-your-linkedin-profile](https://www.linkedin.com/in/sumanbisht/))
+[!(<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="50" height="50"/> ) LinkedIn]([link-to-your-linkedin-profile](https://www.linkedin.com/in/sumanbisht/))
 
 ---
 
