@@ -8,7 +8,7 @@ Suman Bisht
 
 ---
 
-A cloud product marketing manager with a focus on security and networking solutions.  
+A cloud product marketing manager with a focus on security, networking and data solutions.  
 
 I have a working knowledge in Data Center & Enterprise Networking, Servers, Kubernetes/Containers, Storage, SD-WAN, SASE, CASB, SWG, ZTNA, Firewalls, AIOps, UCaaS/CCaaS, API platforms, 2G/3G/LTE, GSM-R, VoIP, Cloud Computing.
 
