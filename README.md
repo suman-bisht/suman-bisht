@@ -10,16 +10,18 @@ Suman Bisht
 
 A cloud product marketing manager with a focus on security, networking and data solutions.  
 
-I have a working knowledge in Data Center & Enterprise Networking, Servers, Kubernetes/Containers, Storage, SD-WAN, SASE, CASB, SWG, ZTNA, Firewalls, AIOps, UCaaS/CCaaS, API platforms, 2G/3G/LTE, GSM-R, VoIP, Cloud Computing.
+I have a working knowledge in SD-WAN, SASE, CASB, SWG, ZTNA, Firewalls, AIOps, UCaaS/CCaaS, API platforms, 2G/3G/LTE, GSM-R, VoIP, Cloud Computing, Data Center & Enterprise Networking, Servers, Kubernetes/Containers, Storage.
 
-I am
+I hold the following certifications: 
+- Microsoft Azure Fundamentals (2024)
+- Microsoft Azure AI Fundamentals (2024)
+- Google Cloud - Introduction to Generative AI (2024)
+- Cisco Networking Academy Badge - Endpoint Security (2024)
 - Google Cloud Certified - Professional Data Engineer (2023)
 - Google Cloud Certified - Cloud Digital Leader (2022)
 - Google Cloud Certified - Professional Cloud Architect (2018)
-- Google Cloud - Introduction to Generative AI (2024)
 - AWS Certified - Solution Architect Associate (2017)
-- Microsoft Azure AI Fundamentals (2024)
-- Microsoft Azure Fundamentals (2024)
+
   
 Education: Bachelors of Engineering in Electronics & Communications
 
