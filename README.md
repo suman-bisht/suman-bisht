@@ -14,7 +14,6 @@ I have a working knowledge in SD-WAN, SASE, CASB, SWG, ZTNA, Firewalls, AIOps, U
 
 I hold the following certifications: 
 - Microsoft Azure Fundamentals (2024)
-- Microsoft Azure AI Fundamentals (2024)
 - Google Cloud - Introduction to Generative AI (2024)
 - Cisco Networking Academy Badge - Endpoint Security (2024)
 - Google Cloud Certified - Professional Data Engineer (2023)
