@@ -72,6 +72,7 @@ Education: Bachelors of Engineering in Electronics & Communications
 
 #### 📑 Webpages
 
+- [SonicWall Cloud Secure Edge, an SSE Solution](https://www.sonicwall.com/products/cloud-secure-edge)
 - [VMWare SASE SD-Access](https://sase.vmware.com/products/sdaccess)
 - [VMWare SASE Secure Access](https://sase.vmware.com/products/vmware-secure-access)
 - [VMWare SASE Compliance and Certifications](https://sase.vmware.com/products/product-certifications-and-compliance)
