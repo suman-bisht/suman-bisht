@@ -61,6 +61,7 @@ Education: Bachelors of Engineering in Electronics & Communications
   
 
 #### 🗂️ Solution Guides
+- [Vertical Solution - CSE for Higher Education](https://www.sonicwall.com/resources/brief/cloud-secure-edge-for-higher-education)
 - [SonicWall - Lemonade Case Study](https://www.sonicwall.com/medialibrary/en/case-study/Lemonade-Moves-Up-from-VPN-to-Banyan-Zero-Trust-Access-Solution.pdf)
 - [VMware SD-Access](https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/sase/sdwan-1085-VMware-SD-WAN-Client-so-11-22.pdf)
 - [VMware Secure Access ](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1004-Secure-Access-ds-1021.pdf)
