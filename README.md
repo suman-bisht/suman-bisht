@@ -53,14 +53,6 @@ Education: Bachelors of Engineering in Electronics & Communications
 - [VMware SD-WAN with Menlo Security: Optimal Connectivity and Security for Workforce @ Home](https://blogs.vmware.com/sase/2020/05/27/vmware-sd-wan-with-menlo-security-optimal-connectivity-and-security-for-workforce-home/)
 - [Reasons To Consider Moving From A VPN To ZTNA In A Work-From-Anywhere World](https://www.forbes.com/sites/forbestechcouncil/2021/06/16/reasons-to-consider-moving-from-a-vpn-to-ztna-in-a-work-from-anywhere-world/)
 
-
-#### 🗂️ Datasheets
-
-- [SonicWall Cloud Secure Edge](https://www.sonicwall.com/resources/datasheet/cloud-secure-edge)
-- [VMware VeloCloud SD-WAN Edge](https://www.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-712-edge-platform-spec-ds-1020.pdf)
-- [VMware VeloCloud SD-Access](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1092-vmware-sd-wan-client-ds-0323.pdf)
-  
-
 #### 🗂️ Solution Guides
 - [Vertical Solution - CSE for Higher Education](https://www.sonicwall.com/resources/brief/cloud-secure-edge-for-higher-education)
 - [SonicWall - Lemonade Case Study](https://www.sonicwall.com/medialibrary/en/case-study/Lemonade-Moves-Up-from-VPN-to-Banyan-Zero-Trust-Access-Solution.pdf)
@@ -87,6 +79,12 @@ Education: Bachelors of Engineering in Electronics & Communications
 - [8x8's marketplace / integrations page](https://www.8x8.com/products/integrations)
 
 
+#### 🗂️ Datasheets
+
+- [SonicWall Cloud Secure Edge](https://www.sonicwall.com/resources/datasheet/cloud-secure-edge)
+- [VMware VeloCloud SD-WAN Edge](https://www.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-712-edge-platform-spec-ds-1020.pdf)
+- [VMware VeloCloud SD-Access](https://sase.vmware.com/content/dam/digitalmarketing/vmware-sase/pdfs/sdwan-1092-vmware-sd-wan-client-ds-0323.pdf)
+  
 
 
 ---
