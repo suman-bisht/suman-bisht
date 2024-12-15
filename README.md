@@ -36,7 +36,7 @@ Education: Bachelors of Engineering in Electronics & Communications
 </p>
 
 
-### Portfolio ✍
+### Content Portfolio ✍
 <!-- icons src - https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 
