@@ -71,6 +71,7 @@ Education: Bachelors of Engineering in Electronics & Communications
 
 #### 📑 Webpages
 
+- [SonicWall Internet Threat Protection](https://www.sonicwall.com/solutions/use-cases/internet-threat-protection)   
 - [SonicWall Secure Private Access](https://www.sonicwall.com/products/secure-private-access)
 - [SonicWall Secure Internet Access](https://www.sonicwall.com/products/secure-internet-access)
 - [SonicWall Cloud Secure Edge, an SSE Solution](https://www.sonicwall.com/products/cloud-secure-edge)
