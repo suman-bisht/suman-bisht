@@ -57,6 +57,7 @@ Education: Bachelors of Engineering in Electronics & Communications
 #### 🗂️ Solution Guides
 - [Why you need ZTNA? - Buyer's Checklist](https://www.sonicwall.com/resources/brief/why-you-need-ztna-buyers-guide)
 - [White Paper - Delivering Better Security and Business Outcomes](https://www.sonicwall.com/resources/white-papers/delivering-better-security-and-business-outcomes/gated/thank-you/asset)
+- [Secure and Compliant K-12 by SonicWall](https://www.sonicwall.com/resources/brief/sonicwall-cloud-secure-edge-enabling-a-safe-and-secure-k-12-education-environment)    
 - [Vertical Solution - CSE for Higher Education](https://www.sonicwall.com/resources/brief/cloud-secure-edge-for-higher-education)
 - [SonicWall - Lemonade Case Study](https://www.sonicwall.com/medialibrary/en/case-study/Lemonade-Moves-Up-from-VPN-to-Banyan-Zero-Trust-Access-Solution.pdf)
 - [VMware SD-Access](https://www.vmware.com/content/dam/digitalmarketing/microsites/en/images/sase/sdwan-1085-VMware-SD-WAN-Client-so-11-22.pdf)
