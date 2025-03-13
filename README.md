@@ -55,6 +55,7 @@ Education: Bachelors of Engineering in Electronics & Communications
 - [Reasons To Consider Moving From A VPN To ZTNA In A Work-From-Anywhere World](https://www.forbes.com/sites/forbestechcouncil/2021/06/16/reasons-to-consider-moving-from-a-vpn-to-ztna-in-a-work-from-anywhere-world/)
 
 #### 🗂️ Solution Guides
+- [Why you need ZTNA? - Buyer's Checklist](https://www.sonicwall.com/resources/brief/why-you-need-ztna-buyers-guide)
 - [White Paper - Delivering Better Security and Business Outcomes](https://www.sonicwall.com/resources/white-papers/delivering-better-security-and-business-outcomes/gated/thank-you/asset)
 - [Vertical Solution - CSE for Higher Education](https://www.sonicwall.com/resources/brief/cloud-secure-edge-for-higher-education)
 - [SonicWall - Lemonade Case Study](https://www.sonicwall.com/medialibrary/en/case-study/Lemonade-Moves-Up-from-VPN-to-Banyan-Zero-Trust-Access-Solution.pdf)
