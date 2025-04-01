@@ -52,8 +52,9 @@ Education: Bachelors of Engineering in Electronics & Communications
 - [New Cellular Options for Staying Connected with VMware SD-WAN and Transatel](https://blogs.vmware.com/sase/2021/03/11/new-cellular-options-for-staying-connected-with-vmware-sd-wan-and-transatel/)
 - [VMware Cloud on AWS: Integration with VMware SD-WAN by VeloCloud](https://blogs.vmware.com/cloud/2020/04/23/vmware-cloud-aws-integration-vmware-sd-wan-velocloud/)
 - [VMware SD-WAN with Menlo Security: Optimal Connectivity and Security for Workforce @ Home](https://blogs.vmware.com/sase/2020/05/27/vmware-sd-wan-with-menlo-security-optimal-connectivity-and-security-for-workforce-home/)
+- [Type of Load Balancing Algorithms](https://medium.com/@sumanbisht2012/type-of-load-balancing-algorithms-3c553f7b22a9)
 - [Reasons To Consider Moving From A VPN To ZTNA In A Work-From-Anywhere World](https://www.forbes.com/sites/forbestechcouncil/2021/06/16/reasons-to-consider-moving-from-a-vpn-to-ztna-in-a-work-from-anywhere-world/)
-
+  
 #### 🗂️ Solution Guides
 - [Why you need ZTNA? - Buyer's Checklist](https://www.sonicwall.com/resources/brief/why-you-need-ztna-buyers-guide)
 - [White Paper - Delivering Better Security and Business Outcomes](https://www.sonicwall.com/resources/white-papers/delivering-better-security-and-business-outcomes/gated/thank-you/asset)
