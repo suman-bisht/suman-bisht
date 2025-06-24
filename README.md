@@ -41,10 +41,6 @@ Education: Bachelors of Engineering in Electronics & Communications
 <!-- icons src - https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 
-#### ✍ Sample Launch plan
-
-
-- [Sample launch planning](https://docs.google.com/presentation/d/1V876BedT5xtc1kC5ZT1DB5IxFJow4gBYNrQiKW7jVNg/edit?usp=sharing)
 
 
 #### ✍ Blogs
