@@ -46,6 +46,7 @@ Education: Bachelors of Engineering in Electronics & Communications
 #### ✍ Blogs
 
 
+- [Coder Brings Governance to Kiro IDE with Centralized MCP](https://coder.com/blog/centralized-mcp-server-management-kiro)
 - [Getting the Best Performance for Microsoft 365 with VMware SD-WAN](https://blogs.vmware.com/sase/2020/07/14/getting-the-best-performance-for-microsoft-365-with-vmware-sd-wan/)
 - [VMware SD-WAN for Office 365: Productivity and Experience Together](https://blogs.vmware.com/sase/2020/02/19/vmware-sd-wan-for-office-365-productivity-and-experience-together/)
 - [VMware Edge Compute Stack: What’s New in 2022?](https://blogs.vmware.com/sase/2022/08/30/vmware-edge-compute-stack-new-in-2022/)
@@ -77,6 +78,7 @@ Education: Bachelors of Engineering in Electronics & Communications
 #### 📑 Webpages
 
 - [Coder for Government Agencies: Self-Hosted Environments that Protect Source code and Increase Productivity](https://coder.com/solutions/government)
+- [Coder for Financial Services: Delivering Standardized Development Environments for Coders and AI Agents](https://coder.com/solutions/financial-services)
 - [SonicWall Internet Threat Protection](https://www.sonicwall.com/solutions/use-cases/internet-threat-protection)   
 - [SonicWall Secure Private Access](https://www.sonicwall.com/products/secure-private-access)
 - [SonicWall Secure Internet Access](https://www.sonicwall.com/products/secure-internet-access)
