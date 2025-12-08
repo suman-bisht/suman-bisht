@@ -46,6 +46,7 @@ Education: Bachelors of Engineering in Electronics & Communications
 #### ✍ Blogs
 
 
+- [Inside the Stack: Secure and Scale AI Coding Agents with Coder](https://coder.com/blog/inside-the-stack-secure-and-scale-ai-coding-agents-with-coder)
 - [Coder Brings Governance to Kiro IDE with Centralized MCP](https://coder.com/blog/centralized-mcp-server-management-kiro)
 - [Getting the Best Performance for Microsoft 365 with VMware SD-WAN](https://blogs.vmware.com/sase/2020/07/14/getting-the-best-performance-for-microsoft-365-with-vmware-sd-wan/)
 - [VMware SD-WAN for Office 365: Productivity and Experience Together](https://blogs.vmware.com/sase/2020/02/19/vmware-sd-wan-for-office-365-productivity-and-experience-together/)
