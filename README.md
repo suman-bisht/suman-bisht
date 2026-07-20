@@ -79,6 +79,7 @@ Education: Bachelors of Engineering in Electronics & Communications
 
 #### 📑 Webpages
 
+- [AI Development Environments on AWS](https://coder.com/partners/aws)   
 - [AI Governance : Build with AI safely. Scale it confidently](https://coder.com/solutions/ai-governance)
 - [Coder for Government Agencies: Self-Hosted Environments that Protect Source code and Increase Productivity](https://coder.com/solutions/government)
 - [Coder for Financial Services: Delivering Standardized Development Environments for Coders and AI Agents](https://coder.com/solutions/financial-services)
